@@ -8,7 +8,7 @@ git clone https://github.com/MuffinLover42/wordsaplenty.git
 ```
 Then use the following command:
 ```bash
-py dictionary.py <word> -t [word_type] -l [language] -d [dictionary]
+py dictionary.py <word> [-t word_type] [-l language] [-d dictionary]
 ```
 `word_type` defaults to `noun`, `language` to `en_GB` and `dictionary` to `dictionary_api` as it's the only one that has been implemented yet.
 
