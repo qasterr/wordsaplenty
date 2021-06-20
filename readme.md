@@ -1,6 +1,5 @@
 # Words aplenty
 ### A Python CLI tool for checking words in a dictionary
-<br>
 
 ## Usage
 First, clone the repository by typing
