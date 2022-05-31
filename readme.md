@@ -4,7 +4,7 @@
 ## Usage
 First, clone the repository by typing
 ```bash
-git clone https://github.com/MuffinLover42/wordsaplenty.git
+git clone https://github.com/qasterr/wordsaplenty.git
 ```
 Then use the following command:
 ```bash
